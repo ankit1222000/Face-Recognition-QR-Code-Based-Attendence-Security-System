@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.effect.MotionBlur?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="482.0" prefWidth="726.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.thinking.machines.student.application.Controller">
+   <children>
+      <Pane prefHeight="170.0" prefWidth="763.0" style="-fx-background-color: #000000;">
+         <children>
+            <Label layoutX="258.0" layoutY="45.0" prefHeight="59.0" prefWidth="274.0" text="Admin Section" textFill="#e5dfdf">
+               <font>
+                  <Font size="36.0" />
+               </font>
+            </Label>
+            <Label layoutX="276.0" layoutY="88.0" prefHeight="33.0" prefWidth="176.0" text="Choose an option" textFill="#f5f4f4">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Label>
+            <ImageView fitHeight="71.0" fitWidth="170.0" layoutX="27.0" layoutY="50.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../Images/Staysafe%20security.png" />
+               </image>
+            </ImageView>
+            <Pane layoutX="235.0" layoutY="22.0" prefHeight="128.0" prefWidth="5.0" style="-fx-background-color: red;">
+               <effect>
+                  <MotionBlur angle="67.71" />
+               </effect>
+            </Pane>
+            <Pane layoutX="264.0" layoutY="22.0" opacity="0.22" prefHeight="128.0" prefWidth="23.0" style="-fx-background-color: red;">
+               <effect>
+                  <MotionBlur />
+               </effect>
+            </Pane>
+            <Pane layoutX="252.0" layoutY="22.0" opacity="0.35" prefHeight="128.0" prefWidth="12.0" style="-fx-background-color: red;">
+               <effect>
+                  <MotionBlur />
+               </effect>
+            </Pane>
+            <Pane layoutX="240.0" layoutY="22.0" opacity="0.52" prefHeight="128.0" prefWidth="12.0" style="-fx-background-color: red;">
+               <effect>
+                  <MotionBlur />
+               </effect>
+            </Pane>
+            <ImageView fitHeight="40.0" fitWidth="36.0" layoutX="706.0" layoutY="14.0" onMouseClicked="#BackToFunction" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../Images/power.jpg" />
+               </image>
+            </ImageView>
+            <Button fx:id="logout" layoutX="703.0" layoutY="14.0" mnemonicParsing="false" onAction="#BackToFunction" opacity="0.0" prefHeight="36.0" prefWidth="43.0" style="-fx-background-color: #000000;" />
+         </children>
+      </Pane>
+      <Button fx:id="sms" layoutX="109.0" layoutY="264.0" mnemonicParsing="false" onAction="#SendSMS" prefHeight="71.0" prefWidth="102.0" text="Send SMS">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font></Button>
+      <Button fx:id="showRecord" layoutX="310.0" layoutY="264.0" mnemonicParsing="false" onAction="#ShowRecord" prefHeight="71.0" prefWidth="109.0" text="Show Record">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font></Button>
+      <Button fx:id="createNew" layoutX="517.0" layoutY="264.0" mnemonicParsing="false" onAction="#CreateNew" prefHeight="71.0" prefWidth="102.0" text="Create New">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font></Button>
+   </children>
+</AnchorPane>

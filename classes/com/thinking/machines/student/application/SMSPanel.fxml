@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="600.0" prefWidth="861.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.thinking.machines.student.application.Controller">
+   <children>
+      <Pane prefHeight="600.0" prefWidth="219.0" style="-fx-background-color: #000000;">
+         <children>
+            <ImageView fitHeight="76.0" fitWidth="180.0" layoutX="21.0" layoutY="22.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../Images/Staysafe%20security.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="306.0" fitWidth="200.0" layoutX="10.0" layoutY="211.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../Images/giphy-downsized-large.gif" />
+               </image>
+            </ImageView>
+            <Button fx:id="ConfirmNO" layoutX="62.0" layoutY="539.0" mnemonicParsing="false" onAction="#Confirm_NO" prefHeight="32.0" prefWidth="95.0" text="CANCEL" />
+            <Button fx:id="presenties" layoutX="21.0" layoutY="211.0" mnemonicParsing="false" onAction="#PresentStudentsClicked" prefHeight="32.0" prefWidth="178.0" text="Present Students">
+               <font>
+                  <Font name="System Bold" size="17.0" />
+               </font>
+            </Button>
+            <Button fx:id="absenties" layoutX="21.0" layoutY="284.0" mnemonicParsing="false" onAction="#AbsentStudentsClicked" prefHeight="32.0" prefWidth="178.0" text="Absent Students">
+               <font>
+                  <Font name="System Bold" size="17.0" />
+               </font></Button>
+         </children>
+      </Pane>
+      <BorderPane fx:id="Mainpane" layoutX="248.0" layoutY="30.0" prefHeight="536.0" prefWidth="583.0" />
+     
+   </children>
+</AnchorPane>

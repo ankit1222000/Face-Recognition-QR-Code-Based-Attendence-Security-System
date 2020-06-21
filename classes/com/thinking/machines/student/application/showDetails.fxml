@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="543.0" prefWidth="709.0" style="-fx-background-color: #000000;" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/11.0.1" fx:controller="com.thinking.machines.student.application.Controller">
+   <children>
+      <Button layoutX="205.0" layoutY="246.0" mnemonicParsing="false" onAction="#DownloadDetails" prefHeight="52.0" prefWidth="152.0" style="-fx-background-color: #0aa4cf;" text="Download" textFill="#131313" />
+   </children>
+</AnchorPane>
