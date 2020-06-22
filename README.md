@@ -24,17 +24,17 @@ Student Security Attendence System called Staysafe Security System that uses the
 			* Creating new student profile,QR code if a new student takes admission in School.
 
 
-### Language Used: Java and Python
+### * Language Used: Java and Python
 
-### Database Used: MYSQL
+### * Database Used: MYSQL
 
 
-### Python used for creating QR Code Scan,Face Recoginiton as well QR Code Creation faciltity
+### * Python used for creating QR Code Scan,Face Recoginiton as well QR Code Creation faciltity
 
-### Project Front-End is created using JavaFX library.
+### * Project Front-End is created using JavaFX library.
 
-### For GSM SMS feature FAST2SMS Message API has been used for sending messages.
-### for using FAST2SMS you can genereate your own API key at https://docs.fast2sms.com/
+### * For GSM SMS feature FAST2SMS Message API has been used for sending messages.
+### * For using FAST2SMS you can genereate your own API key at https://docs.fast2sms.com/
 
 
 
@@ -76,7 +76,7 @@ Student Security Attendence System called Staysafe Security System that uses the
 
 ![Admin](https://user-images.githubusercontent.com/60085587/85238375-1ec51200-b44b-11ea-8d8c-f37f52ad7ad4.PNG)
 
-## Admin Report Generation Functionality (Show All: Monthly Attendence Report,Show Today's: Daily Attendence Report,Show Details: Student Information Report)
+## Admin Report Generation Functionality
 
 ![ShowAll](https://user-images.githubusercontent.com/60085587/85238385-24baf300-b44b-11ea-82cc-6ad25a3294c6.PNG)
 
@@ -113,6 +113,7 @@ Student Security Attendence System called Staysafe Security System that uses the
 
 
 
-
+## Please Do Also Chekout my Sub Project for Parents a website basically Dynamic and Responsive School Based ERP System or a Parent's Portal created for the Parent Module of my Project Staysafe Security System,using login credentials parent's are able to access their ward's Attendence, Fees, Result Details,Profile as well as consists of E-Learning and Video Library feature for students to study at home itself etc. 
+### on https://github.com/ankit1222000/Parent-Portal-Website
 
 
