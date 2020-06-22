@@ -50,7 +50,11 @@ Student Security Attendence System called Staysafe Security System that uses the
 
 ![Option](https://user-images.githubusercontent.com/60085587/85238384-24225c80-b44b-11ea-950e-cb2c1d7ebae1.PNG)
 
-![AdminKey](https://user-images.githubusercontent.com/60085587/85238376-1ff63f00-b44b-11ea-8e9c-b231590cd8b9.PNG)
+![Ankit](https://user-images.githubusercontent.com/60085587/85332864-5046e780-b4f6-11ea-850a-cca6b09fa5c0.PNG)
+
+![QRSCAN](https://user-images.githubusercontent.com/60085587/85332915-63f24e00-b4f6-11ea-8594-4eff27547a0f.PNG)
+
+![AdminKey](https://user-images.githubusercontent.com/60085587/85238376-1ff63f00-b44b-11ea-8e9c-b231590cd8b9.PG)
 
 ![Admin](https://user-images.githubusercontent.com/60085587/85238375-1ec51200-b44b-11ea-8d8c-f37f52ad7ad4.PNG)
 
@@ -61,9 +65,6 @@ Student Security Attendence System called Staysafe Security System that uses the
 ![Key](https://user-images.githubusercontent.com/60085587/85238380-22f12f80-b44b-11ea-811f-b4d392934cc4.PNG)
 
 ![QR](https://user-images.githubusercontent.com/60085587/85238470-c04c6380-b44b-11ea-9f5b-012e8914d7c2.PNG)
-
-![QRSCAN](https://user-images.githubusercontent.com/60085587/85330498-24296780-b4f2-11ea-920c-adc231536b77.PNG)
-
 
 [2020-06-21DailyAttendenceRecord.pdf](https://github.com/ankit1222000/Face-Recognition-QR-Code-Based-Attendence-Security-System/files/4810582/2020-06-21DailyAttendenceRecord.pdf)
 
