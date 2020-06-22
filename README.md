@@ -48,23 +48,41 @@ Student Security Attendence System called Staysafe Security System that uses the
 
 ![login](https://user-images.githubusercontent.com/60085587/85238383-2389c600-b44b-11ea-9854-c2d57c94a8eb.PNG)
 
+## Clicking Scan will open the Student Module where the Student will recognize the Face punch the QR Code
+
 ![Option](https://user-images.githubusercontent.com/60085587/85238384-24225c80-b44b-11ea-950e-cb2c1d7ebae1.PNG)
+
+## Student Recognising his face before Attendence
 
 ![Ankit](https://user-images.githubusercontent.com/60085587/85332864-5046e780-b4f6-11ea-850a-cca6b09fa5c0.PNG)
 
+## After Sucessfull Recognition Student Punching his/her QR Code
+
 ![QRSCAN](https://user-images.githubusercontent.com/60085587/85332915-63f24e00-b4f6-11ea-8594-4eff27547a0f.PNG)
 
+## On Clicking Admin OPtion of Home Page Admin Needs to Enter its Security Key to Login
+
 ![AdminKey](https://user-images.githubusercontent.com/60085587/85238376-1ff63f00-b44b-11ea-8e9c-b231590cd8b9.PG)
+
+## Admin Functionalities
 
 ![Admin](https://user-images.githubusercontent.com/60085587/85238375-1ec51200-b44b-11ea-8d8c-f37f52ad7ad4.PNG)
 
 ![ShowAll](https://user-images.githubusercontent.com/60085587/85238385-24baf300-b44b-11ea-82cc-6ad25a3294c6.PNG)
 
+## For Creating new Student Profile
+
 ![Form](https://user-images.githubusercontent.com/60085587/85238378-21c00280-b44b-11ea-9cac-7f0a939d3e6a.PNG)
+
+## For Loging into Parent's Portal (Another Sub-Project Website) for Parents
 
 ![Key](https://user-images.githubusercontent.com/60085587/85238380-22f12f80-b44b-11ea-811f-b4d392934cc4.PNG)
 
+## QR Created Automatically after new Student SignUp
+
 ![QR](https://user-images.githubusercontent.com/60085587/85238470-c04c6380-b44b-11ea-9f5b-012e8914d7c2.PNG)
+
+## Sample Attendence Record Created by Admin
 
 [2020-06-21DailyAttendenceRecord.pdf](https://github.com/ankit1222000/Face-Recognition-QR-Code-Based-Attendence-Security-System/files/4810582/2020-06-21DailyAttendenceRecord.pdf)
 
