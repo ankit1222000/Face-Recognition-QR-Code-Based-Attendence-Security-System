@@ -32,5 +32,8 @@
 
 ![Key](https://user-images.githubusercontent.com/60085587/85238380-22f12f80-b44b-11ea-811f-b4d392934cc4.PNG)
 
+![QR](https://user-images.githubusercontent.com/60085587/85238470-c04c6380-b44b-11ea-9f5b-012e8914d7c2.PNG)
+
+
 
 
