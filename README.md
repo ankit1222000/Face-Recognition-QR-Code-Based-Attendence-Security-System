@@ -9,12 +9,16 @@ Student Security Attendence System called Staysafe Security System that uses the
 
 2. Before punching the attendence they need to scan their face onto the webcam/camera to ensure they are the same as they are labelled to be for the case of security.
 
+
 3. On sucessfull punching their QR Code, attendence will be punched and a Message will be sent to their guardians on their safe arrival in school
+
 
 4. functionality for Admin /School
 
 a. Creation of daily attendence report,complete student record,and monthy attendence record of each child.
+
 b. Sending SMS  to absent students as well as present students(and how much late they are to school) to their guardian mobile number
+
 c. Creating new student profile,QR code if a new student takes admission in School.
 
 Language Used: Java and Python
