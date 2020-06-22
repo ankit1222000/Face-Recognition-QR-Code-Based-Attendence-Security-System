@@ -103,7 +103,7 @@ Student Security Attendence System called Staysafe Security System that uses the
 
 ![Form](https://user-images.githubusercontent.com/60085587/85238378-21c00280-b44b-11ea-9cac-7f0a939d3e6a.PNG)
 
-## For Loging into Parent's Portal (Another Sub-Project Website) for Parents
+## For Logging into Parent's Portal (Another Sub-Project Website Link Below :arrow_down:) for Parents
 
 ![Key](https://user-images.githubusercontent.com/60085587/85238380-22f12f80-b44b-11ea-811f-b4d392934cc4.PNG)
 
