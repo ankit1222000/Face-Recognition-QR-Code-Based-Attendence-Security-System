@@ -24,16 +24,16 @@ Student Security Attendence System called Staysafe Security System that uses the
 			* Creating new student profile,QR code if a new student takes admission in School.
 
 
-## Language Used: Java and Python
+### Language Used: Java and Python
 
-## Database Used: MYSQL
+### Database Used: MYSQL
 
 
-## Python used for creating QR Code Scan,Face Recoginiton as well QR Code Creation faciltity
+### Python used for creating QR Code Scan,Face Recoginiton as well QR Code Creation faciltity
 
-## Project Front-End is created using JavaFX library.
+### Project Front-End is created using JavaFX library.
 
-## For GSM SMS feature FAST2SMS Message API has been used for sending messages.
+### For GSM SMS feature FAST2SMS Message API has been used for sending messages.
 ### for using FAST2SMS you can genereate your own API key at https://docs.fast2sms.com/
 
 
@@ -44,9 +44,14 @@ Student Security Attendence System called Staysafe Security System that uses the
 
 # HERE ARE SOME PREVIEWS OF MY APPLICATION
 
+
 ![Capture](https://user-images.githubusercontent.com/60085587/85238377-208ed580-b44b-11ea-986f-6201e6fcdc06.PNG)
 
 ![login](https://user-images.githubusercontent.com/60085587/85238383-2389c600-b44b-11ea-9854-c2d57c94a8eb.PNG)
+
+
+# Student Features
+
 
 ## Clicking Scan will open the Student Module where the Student will recognize the Face punch the QR Code
 
@@ -60,17 +65,41 @@ Student Security Attendence System called Staysafe Security System that uses the
 
 ![QRSCAN](https://user-images.githubusercontent.com/60085587/85332915-63f24e00-b4f6-11ea-8594-4eff27547a0f.PNG)
 
+
+# Admin Features
+
 ## On Clicking Admin OPtion of Home Page Admin Needs to Enter its Security Key to Login
 
-![AdminKey](https://user-images.githubusercontent.com/60085587/85238376-1ff63f00-b44b-11ea-8e9c-b231590cd8b9.PG)
+![AdminKey](https://user-images.githubusercontent.com/60085587/85333663-9a7c9880-b4f7-11ea-9371-e2eb288a73cc.PNG)
 
 ## Admin Functionalities
 
 ![Admin](https://user-images.githubusercontent.com/60085587/85238375-1ec51200-b44b-11ea-8d8c-f37f52ad7ad4.PNG)
 
+## Admin Report Generation Functionality (Show All: Monthly Attendence Report,Show Today's: Daily Attendence Report,Show Details: Student Information Report)
+
 ![ShowAll](https://user-images.githubusercontent.com/60085587/85238385-24baf300-b44b-11ea-82cc-6ad25a3294c6.PNG)
 
-## For Creating new Student Profile
+### Daily Attendence Report
+
+[2020-06-21DailyAttendenceRecord.pdf](https://github.com/ankit1222000/Face-Recognition-QR-Code-Based-Attendence-Security-System/files/4810582/2020-06-21DailyAttendenceRecord.pdf)
+
+### Monthly Attendence Report
+[2020-05-20CompleteAttendenceRecord.pdf](https://github.com/ankit1222000/Face-Recognition-QR-Code-Based-Attendence-Security-System/files/4815532/2020-05-20CompleteAttendenceRecord.pdf)
+
+### Student Detail Report
+[2020-05-22StudentDetailRecord.pdf](https://github.com/ankit1222000/Face-Recognition-QR-Code-Based-Attendence-Security-System/files/4815536/2020-05-22StudentDetailRecord.pdf)
+
+## Admin Getting Details of Absent Students and Sending Message to Guardians
+![Absent](https://user-images.githubusercontent.com/60085587/85334411-d5cb9700-b4f8-11ea-9b3a-5e7bc8e620a6.PNG)
+
+## Admin Getting Details of Present Students and Sending Message to Guardians
+![Present](https://user-images.githubusercontent.com/60085587/85334418-d7955a80-b4f8-11ea-8b3b-4bfba869a346.PNG)
+
+
+
+
+## Admin Creating new Student Profile
 
 ![Form](https://user-images.githubusercontent.com/60085587/85238378-21c00280-b44b-11ea-9cac-7f0a939d3e6a.PNG)
 
@@ -82,9 +111,8 @@ Student Security Attendence System called Staysafe Security System that uses the
 
 ![QR](https://user-images.githubusercontent.com/60085587/85238470-c04c6380-b44b-11ea-9f5b-012e8914d7c2.PNG)
 
-## Sample Attendence Record Created by Admin
 
-[2020-06-21DailyAttendenceRecord.pdf](https://github.com/ankit1222000/Face-Recognition-QR-Code-Based-Attendence-Security-System/files/4810582/2020-06-21DailyAttendenceRecord.pdf)
+
 
 
 
