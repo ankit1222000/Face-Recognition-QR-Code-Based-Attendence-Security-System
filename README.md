@@ -34,6 +34,7 @@
 
 ![QR](https://user-images.githubusercontent.com/60085587/85238470-c04c6380-b44b-11ea-9f5b-012e8914d7c2.PNG)
 
+[2020-06-21DailyAttendenceRecord.pdf](https://github.com/ankit1222000/Face-Recognition-QR-Code-Based-Attendence-Security-System/files/4810582/2020-06-21DailyAttendenceRecord.pdf)
 
 
 
