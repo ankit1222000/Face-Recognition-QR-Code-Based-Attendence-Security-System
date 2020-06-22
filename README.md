@@ -5,38 +5,36 @@ Hello Everyone this is Ankit Bhatia, Student Full-Stack Developer pursuing my B.
 This is one of my project's in Java-Python Developement field  which i have created,basically Java and Python Based 
 Student Security Attendence System called Staysafe Security System that uses the property of Face Recognition as well as QR Based Attendence Punching by the students.
 
-1.Students punch their attendence using QR Code on their ID Cards over the inbuilt application webcam QR scanner.
+### For More Details or Any Suggestions u can Reach me at ankit.bhatia1220@gmail.com
 
-2. Before punching the attendence they need to scan their face onto the webcam/camera to ensure they are the same as they are labelled to be for the case of security.
+- Students punch their attendence using QR Code on their ID Cards over the inbuilt application webcam QR scanner.
 
-
-3. On sucessfull punching their QR Code, attendence will be punched and a Message will be sent to their guardians on their safe arrival in school
-
-
-4. functionality for Admin /School
-
-			a. Creation of daily attendence report,complete student record,and monthy attendence record of each child.
-
-			b. Sending SMS to absent as well as present students(and how much late they are to school) to their guardian mobile number
-
-			c. Creating new student profile,QR code if a new student takes admission in School.
-
-Language Used: Java and Python
-Database Used: MYSQL
+- Before punching the attendence they need to scan their face onto the webcam/camera to ensure they are the same as they are labelled to be for the case of security.
 
 
-Python is used for creating QR Code Scan,Face Recoginiton as well QR Code Creation faciltity
-
-Project Front-End is created using JavaFX library.
-
-For GSM SMS feature FAST2SMS Message API has been used for sending messages.
+- On sucessfull punching their QR Code, attendence will be punched and a Message will be sent to their guardians on their safe arrival in school
 
 
-HERE ARE SOME PREVIEWS OF MY APPLICATIONS 
+- Functionality for Admin /School
+
+			* Creation of daily attendence report,complete student record,and monthy attendence record of each child.
+
+			* Sending SMS to absent as well as present students(and how much late they are to school) to their guardian mobile number
+
+			* Creating new student profile,QR code if a new student takes admission in School.
 
 
+## Language Used: Java and Python
+
+## Database Used: MYSQL
 
 
+## Python used for creating QR Code Scan,Face Recoginiton as well QR Code Creation faciltity
+
+## Project Front-End is created using JavaFX library.
+
+## For GSM SMS feature FAST2SMS Message API has been used for sending messages.
+### for using FAST2SMS you can genereate your own API key at https://docs.fast2sms.com/
 
 
 
@@ -44,6 +42,7 @@ HERE ARE SOME PREVIEWS OF MY APPLICATIONS
 
 
 
+# HERE ARE SOME PREVIEWS OF MY APPLICATION
 
 ![Capture](https://user-images.githubusercontent.com/60085587/85238377-208ed580-b44b-11ea-986f-6201e6fcdc06.PNG)
 
