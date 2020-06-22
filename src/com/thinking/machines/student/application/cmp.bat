@@ -1,0 +1,1 @@
+%1 -d c:\minor\Staysafe\classes --module-path %PATH_TO_FX% --add-modules javafx.controls,javafx.fxml -cp c:\minor\Staysafe\classes;c:\minor\Staysafe\lib\*;. %2
