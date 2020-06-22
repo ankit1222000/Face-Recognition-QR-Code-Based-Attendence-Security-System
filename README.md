@@ -15,11 +15,11 @@ Student Security Attendence System called Staysafe Security System that uses the
 
 4. functionality for Admin /School
 
-a. Creation of daily attendence report,complete student record,and monthy attendence record of each child.
+			a. Creation of daily attendence report,complete student record,and monthy attendence record of each child.
 
-b. Sending SMS  to absent students as well as present students(and how much late they are to school) to their guardian mobile number
+			b. Sending SMS to absent as well as present students(and how much late they are to school) to their guardian mobile number
 
-c. Creating new student profile,QR code if a new student takes admission in School.
+			c. Creating new student profile,QR code if a new student takes admission in School.
 
 Language Used: Java and Python
 Database Used: MYSQL
@@ -62,6 +62,9 @@ HERE ARE SOME PREVIEWS OF MY APPLICATIONS
 ![Key](https://user-images.githubusercontent.com/60085587/85238380-22f12f80-b44b-11ea-811f-b4d392934cc4.PNG)
 
 ![QR](https://user-images.githubusercontent.com/60085587/85238470-c04c6380-b44b-11ea-9f5b-012e8914d7c2.PNG)
+
+![QRSCAN](https://user-images.githubusercontent.com/60085587/85330498-24296780-b4f2-11ea-920c-adc231536b77.PNG)
+
 
 [2020-06-21DailyAttendenceRecord.pdf](https://github.com/ankit1222000/Face-Recognition-QR-Code-Based-Attendence-Security-System/files/4810582/2020-06-21DailyAttendenceRecord.pdf)
 
