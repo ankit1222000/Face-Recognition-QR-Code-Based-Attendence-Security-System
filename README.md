@@ -1,9 +1,9 @@
-# Face-Recognition-QR-Code-Based-Attendence-Security-System
+# Face-Recognition-QR-Code-Based-Attendance-Security-System
 
 Hello Everyone this is Ankit Bhatia, Student Full-Stack Developer pursuing my B.Tech in Computer Science
 
 This is one of my project's in Java-Python Developement field  which i have created,basically Java and Python Based 
-Student Security Attendence System called Staysafe Security System that uses the property of Face Recognition as well as QR Based Attendence Punching by the students.
+Student Security Attendance System called Staysafe Security System that uses the property of Real-Time Face Recognition as well as QR Based Attendence Punching by the students.
 
 ### For More Details or Any Suggestions u can Reach me at ankit.bhatia1220@gmail.com
 
